@@ -70,12 +70,15 @@ TBD
 ## Interviews
 
 ### Coding interview
+
+[List of coding problems to solve](./CODING_PROBLEMS.MD).
+
 ### Take home assignment
 ### System design interview
 
 #### Resources
 
-Resources are sorted by importance. If you don't have time for all of them, go from top to buttom as long as you have time.
+Resources are sorted by importance. If you don't have time for all of them, go from top to bottom as long as you have time.
 
 
 1. [Prepare for your google interview: system desing](https://www.youtube.com/watch?v=Gg318hR5JY0) - short video from google explaining the interview format and expectations. **A must**.
