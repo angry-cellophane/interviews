@@ -85,16 +85,18 @@ TBD
 
 6. [Exponent channel on youtube](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A) - free videos of mock interviews with feedback after the interview. They also offer coaching and practicing on their [web-site](https://www.tryexponent.com/) (not for free). Highly recommend.
 
-7. [System design interview concepts on Teach Lead youtube channel (as a millioniar)](https://www.youtube.com/watch?v=REB_eGHK_P4) - list of basic concepts required for this interview and some insights from someone who has been on the other side of the fence and has conducted lots of system design interviews.
+7. [Success in tech channel on youtube](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw) - list of typical system design questions and explanation.
 
-8. [System design primer](https://github.com/donnemartin/system-design-primer) - another list of system design concepts and typical questions with solutions.
+8. [System design interview concepts on Teach Lead youtube channel (as a millioniar)](https://www.youtube.com/watch?v=REB_eGHK_P4) - list of basic concepts required for this interview and some insights from someone who has been on the other side of the fence and has conducted lots of system design interviews.
 
-9. [interviewing.io](https://interviewing.io/) - mock interviews.
+9. [System design primer](https://github.com/donnemartin/system-design-primer) - another list of system design concepts and typical questions with solutions.
 
-10. [Database internals: A deep dive into how distributed data systems work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - a book about distributed systems. Good read if you have time, provides detailed explanation of some practical problems and solutions.
+10. [interviewing.io](https://interviewing.io/) - mock interviews.
 
-11. [Designing data-intensive applications](https://dataintensive.net/) - great book about distributed systems: how modern databases, message queues, etc work. Good read.
+11. [Database internals: A deep dive into how distributed data systems work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - a book about distributed systems. Good read if you have time, provides detailed explanation of some practical problems and solutions.
 
-12. [Google's books about reliability](https://sre.google/books/) - a few books about how Google work on reliability of their services. For most candidates knowing about SLO/SLA/SLIs is enough, to be honest. Read the books if you have time though.
+12. [Designing data-intensive applications](https://dataintensive.net/) - great book about distributed systems: how modern databases, message queues, etc work. Good read.
+
+13. [Google's books about reliability](https://sre.google/books/) - a few books about how Google work on reliability of their services. For most candidates knowing about SLO/SLA/SLIs is enough, to be honest. Read the books if you have time though.
 
 ### Behavioural interview
