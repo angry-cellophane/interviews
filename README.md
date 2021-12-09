@@ -6,6 +6,7 @@ Table of content:
 1. [Tips](#tips)
 2. [General approach to prepare](#general-approach-to-prepare)
 3. [Format](#format)
+4. [System desing interview](#system-design-interview)
 
 ## Tips
 
