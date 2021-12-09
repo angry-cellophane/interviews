@@ -59,3 +59,28 @@ The most common one is a coding interview (more about them below). Ofent it is t
 Some companies (like amazon) allocate some time for quick behavioural question, so you would get one coding question and a few behavioural questions (more on behavioural interviews below).
 
 You may have a similar experience with [karat](https://karat.com/) or similar platforms. Some companies outsource phone screen interviews to those external platforms. They usually have a pretty good description of what to expect. Quite often, it is some coding problem and a few question on general knowledge.
+
+### On-site interviews
+TBD
+
+### Resources
+TBD
+
+## Interviews
+
+### Coding interview
+### Take home assignment
+### System design interview
+
+#### Resources
+1. [Episode 06: Intro to Architecture and Systems Design Interviews by Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL) - great explanation of the format of the interview, what it is about, what interviewers look for from candidates, what to do during the interview, what not to do. This is **a must**.
+
+2. [System design interview book by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) - explains the format of the interview and provides a dozen typical questions with step-by-step explanation. This is **a must**
+
+3. [Grokking the system design interview course on educative](https://www.educative.io/courses/grokking-the-system-design-interview) - a list of typical system design questions, there is a very high chance you'll get one of those on the interview. The course provides step-by-step guide on how to address problems during the inteview. This is **a must**.
+
+4. [TOP Facebook system design interview questions video](https://www.youtube.com/watch?v=hykjbT5Z0oE&list=PLCfguwhZH5DnHl2yldI781yR6FAgky0Np) - another list with typical questions. Brief walkthrough for each problem. Not deep enough for an actual interview. Nice to watch.
+
+5. [System Design Interview channel on youtube](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) - a list of typical questions with very detailed explanations. Focuses on trade-offs and shows different solutions depending on actual requirements. Highly recommend.
+
+### Behavioural interview
