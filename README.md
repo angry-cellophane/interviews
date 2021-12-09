@@ -1,6 +1,12 @@
 # Interviews for software development engineers
 Interview prep resources
 
+Table of content:
+
+1. [Tips](#tips)
+2. [General approach to prepare](#general-approach-to-prepare)
+3. [Format](#format)
+
 ## Tips
 
 1. Preparation is key. It increases your chances to get an offer a lot. 
@@ -42,9 +48,9 @@ There are four most common types of interviews:
 - System, product, api, object-oriented design.
 - Behavioural, leadership, culture fit, etc.
 
-### Screening interviews
+### Phone screen interviews
 
-Screening (Phone screen) interview usually takes 1 hour where the interviewer asks you for 45 mins and then you have 15 mins to ask the interviewer back.
+Screening (Phone screen) interview usually takes 1 hour where the interviewer asks you for 45 mins and then you have 15 mins to ask the interviewer back. They are done via some video chat (zoom, hangouts, bluejeans, etc) and online collaborative text editor (some with basic syntax support).
 By the end of the interview the interviewer needs to decided whether the candidate has a chance to pass on-site interviews or not.
 
 Different companies use different types of interviews at this stage.
