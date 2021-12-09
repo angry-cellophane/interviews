@@ -25,4 +25,6 @@ Problems sorted starting with the easiest ones that cover important basic concep
 18. [`Min Stack`](https://leetcode.com/problems/min-stack/). Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 19. [`Intersection of Two Linked Lists`](https://leetcode.com/problems/intersection-of-two-linked-lists/). Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
 20. [`Reverse Linked List`](https://leetcode.com/problems/reverse-linked-list/). Given the head of a singly linked list, reverse the list, and return the reversed list.
-21. 
+21. [`Diameter of Binary Tree`](https://leetcode.com/problems/diameter-of-binary-tree/). Given the root of a binary tree, return the length of the diameter of the tree.
+22. [`Sum of Left Leaves`](https://leetcode.com/problems/sum-of-left-leaves/). Given the root of a binary tree, return the sum of all left leaves.
+23. [`Invert Binary Tree`](https://leetcode.com/problems/invert-binary-tree/). Given the root of a binary tree, invert the tree, and return its root.
