@@ -32,8 +32,8 @@ Problems sorted starting with the easiest ones that cover important basic concep
 
 ==== medium ====
 
-24. [`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/). Given a string s, find the length of the longest substring without repeating characters.
-25. [`Longest Palindromic Substring`](https://leetcode.com/problems/longest-palindromic-substring/). Given a string s, return the longest palindromic substring in s.
-26. [`Container With Most Water`](https://leetcode.com/problems/container-with-most-water/). Given n non-negative integers `a1, a2, ..., an` , where each represents a point at coordinate `(i, ai)`. `n` vertical lines are drawn such that the two endpoints of the line i is at `(i, ai)` and `(i, 0)`. Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
-27. [`3Sum`](https://leetcode.com/problems/3sum/). Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j, i != k, and j != k`, and `nums[i] + nums[j] + nums[k] == 0`. Notice that the solution set must not contain duplicate triplets.
-28. [`Remove Nth Node From End of List`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/). Given the head of a linked list, remove the `nth` node from the end of the list and return its head.
+1. [`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/). Given a string s, find the length of the longest substring without repeating characters.
+2. [`Longest Palindromic Substring`](https://leetcode.com/problems/longest-palindromic-substring/). Given a string s, return the longest palindromic substring in s.
+3. [`Container With Most Water`](https://leetcode.com/problems/container-with-most-water/). Given n non-negative integers `a1, a2, ..., an` , where each represents a point at coordinate `(i, ai)`. `n` vertical lines are drawn such that the two endpoints of the line i is at `(i, ai)` and `(i, 0)`. Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+4. [`3Sum`](https://leetcode.com/problems/3sum/). Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j, i != k, and j != k`, and `nums[i] + nums[j] + nums[k] == 0`. Notice that the solution set must not contain duplicate triplets.
+5. [`Remove Nth Node From End of List`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/). Given the head of a linked list, remove the `nth` node from the end of the list and return its head.
