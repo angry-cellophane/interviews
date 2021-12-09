@@ -1,4 +1,4 @@
-# Interviews for software development engineers
+# Interviews for software development engineers (backend).
 Interview prep resources
 
 Table of content:
@@ -82,5 +82,19 @@ TBD
 4. [TOP Facebook system design interview questions video](https://www.youtube.com/watch?v=hykjbT5Z0oE&list=PLCfguwhZH5DnHl2yldI781yR6FAgky0Np) - another list with typical questions. Brief walkthrough for each problem. Not deep enough for an actual interview. Nice to watch.
 
 5. [System Design Interview channel on youtube](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) - a list of typical questions with very detailed explanations. Focuses on trade-offs and shows different solutions depending on actual requirements. Highly recommend.
+
+6. [Exponent channel on youtube](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A) - free videos of mock interviews with feedback after the interview. They also offer coaching and practicing on their [web-site](https://www.tryexponent.com/) (not for free). Highly recommend.
+
+7. [System design interview concepts on Teach Lead youtube channel (as a millioniar)](https://www.youtube.com/watch?v=REB_eGHK_P4) - list of basic concepts required for this interview and some insights from someone who has been on the other side of the fence and has conducted lots of system design interviews.
+
+8. [System design primer](https://github.com/donnemartin/system-design-primer) - another list of system design concepts and typical questions with solutions.
+
+9. [interviewing.io](https://interviewing.io/) - mock interviews.
+
+10. [Database internals: A deep dive into how distributed data systems work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - a book about distributed systems. Good read if you have time, provides detailed explanation of some practical problems and solutions.
+
+11. [Designing data-intensive applications](https://dataintensive.net/) - great book about distributed systems: how modern databases, message queues, etc work. Good read.
+
+12. [Google's books about reliability](https://sre.google/books/) - a few books about how Google work on reliability of their services. For most candidates knowing about SLO/SLA/SLIs is enough, to be honest. Read the books if you have time though.
 
 ### Behavioural interview
