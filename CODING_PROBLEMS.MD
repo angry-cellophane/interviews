@@ -2,6 +2,7 @@
 
 Problems sorted starting with the easiest ones that cover important basic concepts. Try to go from top to bottom.
 
+=== easy ===
 
 1. [`Two sum`](https://leetcode.com/problems/two-sum/). Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 2. [`Palindrome Number`](https://leetcode.com/problems/palindrome-number/). Given an integer `x`, return true if `x` is palindrome integer.
@@ -28,3 +29,11 @@ Problems sorted starting with the easiest ones that cover important basic concep
 21. [`Diameter of Binary Tree`](https://leetcode.com/problems/diameter-of-binary-tree/). Given the root of a binary tree, return the length of the diameter of the tree.
 22. [`Sum of Left Leaves`](https://leetcode.com/problems/sum-of-left-leaves/). Given the root of a binary tree, return the sum of all left leaves.
 23. [`Invert Binary Tree`](https://leetcode.com/problems/invert-binary-tree/). Given the root of a binary tree, invert the tree, and return its root.
+
+==== medium ====
+
+24. [`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/). Given a string s, find the length of the longest substring without repeating characters.
+25. [`Longest Palindromic Substring`](https://leetcode.com/problems/longest-palindromic-substring/). Given a string s, return the longest palindromic substring in s.
+26. [`Container With Most Water`](https://leetcode.com/problems/container-with-most-water/). Given n non-negative integers `a1, a2, ..., an` , where each represents a point at coordinate `(i, ai)`. `n` vertical lines are drawn such that the two endpoints of the line i is at `(i, ai)` and `(i, 0)`. Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+27. [`3Sum`](https://leetcode.com/problems/3sum/). Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j, i != k, and j != k`, and `nums[i] + nums[j] + nums[k] == 0`. Notice that the solution set must not contain duplicate triplets.
+28. [`Remove Nth Node From End of List`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/). Given the head of a linked list, remove the `nth` node from the end of the list and return its head.
