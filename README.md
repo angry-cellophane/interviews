@@ -12,7 +12,7 @@ Table of content:
 1. Preparation is key. It increases your chances to get an offer a lot. 
 Most interviews' formats are not something you do daily (like balancing binary trees or designing type-ahead systems for google search) but they are well defined and it's highly recommended to follow them. Following the format will help you to give more `signals` to the interviewers. They are assessing you on several parameters (e.g. problem solving, communication, coding, testing) and looking for signals for each parameter. 
 
-	Preparation helps you focus on the important parts of the interview that gives more signals and not to spend time on something that gives fewer signals during the interview. It helps you increase the `density` of your interview if it makes sense. 
+	Preparation helps you focus on important parts of the interview that give more signals and not to spend time on something that gives fewer signals during the interview. It helps you increase the `density` of your interview if it makes sense. 
 
 
 2. Recruiters are your best friends. They get a bonus if you get hired, so it's in their interest to make sure you show your best in interviews. 
