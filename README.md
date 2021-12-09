@@ -73,6 +73,10 @@ TBD
 ### System design interview
 
 #### Resources
+
+Resources are sorted by importance. If you don't have time for all of them, go from top to buttom as long as you have time.
+
+
 1. [Prepare for your google interview: system desing](https://www.youtube.com/watch?v=Gg318hR5JY0) - short video from google explaining the interview format and expectations. **A must**.
 
 1. [Episode 06: Intro to Architecture and Systems Design Interviews by Jackson Gabbard](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL) - great explanation of the format of the interview, what it is about, what interviewers look for from candidates, what to do during the interview, what not to do. This is **a must**.
