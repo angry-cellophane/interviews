@@ -100,7 +100,7 @@ Resources are sorted by importance. If you don't have time for all of them, go f
 
 7. [Success in tech channel on youtube](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw) - list of typical system design questions and explanation.
 
-8. [System design interview concepts on Teach Lead youtube channel (as a millioniar)](https://www.youtube.com/watch?v=REB_eGHK_P4) - list of basic concepts required for this interview and some insights from someone who has been on the other side of the fence and has conducted lots of system design interviews.
+8. [System design interview concepts on Teach Lead youtube channel (as a millionaire)](https://www.youtube.com/watch?v=REB_eGHK_P4) - list of basic concepts required for this interview and some insights from someone who has been on the other side of the fence and has conducted lots of system design interviews.
 
 9. [System design primer](https://github.com/donnemartin/system-design-primer) - another list of system design concepts and typical questions with solutions.
 
