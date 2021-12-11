@@ -40,7 +40,7 @@ Some companies offer prep calls with engineers. This is the time when you not on
 
 ## Format
 
-Usually the interview cycle contains 2 (or 3) steps: `screening` interview and the full set of different interviews (`on-site` interviews).
+Usually the interview cycle contains 2 (or 3) steps: `screening` interview and a full set of different interviews (`on-site` interviews).
 
 
 Companies want to optimize their interview process and not to spend time of their engineers if it's clear that the candidate is not a good match (e.g. irrelevant experience or poor coding skills).
