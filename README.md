@@ -1,5 +1,8 @@
 # Interviews for software development engineers (backend).
-Interview prep resources
+Opinionated interview prep guide.
+
+There's plenty of resources on the Interview to prepare for SWE interviews. This guide is to help structure preparetion.
+
 
 Table of content:
 
