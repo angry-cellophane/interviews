@@ -1,6 +1,6 @@
 # List of coding problems
 
-Problems sorted starting with the easiest ones that cover important basic concepts. Try to go from top to bottom.
+Problems sorted by level starting with easiest ones that cover important basic concepts. Try to go from top to bottom.
 
 === easy ===
 
