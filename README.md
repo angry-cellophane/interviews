@@ -33,7 +33,7 @@ Some companies offer prep calls with engineers. This is the time when you not on
 
 ## General approach to prepare
 
-1. Understand the format: expectations, how you get evaluated, redflags.
+1. Understand the format: expectations, how you are evaluated, redflags.
 2. Practice.
 3. Do mock interviews.
 
